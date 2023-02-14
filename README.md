@@ -1,6 +1,5 @@
-# Space Travelers' Hub
-
-Space Travelers' Hub is an application that allows you to book rockets and join space missions for commerial and scientific purpose.
+# math magicia
+math magicians is an application for math fans, a calculator app is also intgerated for users to make arithmetic calculations.
 
 ## Built With
 
