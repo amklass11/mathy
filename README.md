@@ -60,7 +60,7 @@ LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel freedto check the [issues page](../../issues/).
 
 ## Show your support
 
