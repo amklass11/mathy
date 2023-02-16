@@ -2,7 +2,7 @@ import { React, useState } from 'react';
 import PropTypes from 'prop-types';
 import Buttons from './buttons';
 import Display from './display';
-import calculate from '../logic/calculate.js';
+import calculate from '../logic/calculate';
 import './calculator.css';
 
 const Calculator = (props) => {
