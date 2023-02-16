@@ -13,8 +13,8 @@ body {
   margin: 0;
   padding: 0;
 }
-s
-.header-container {
+
+s .header-container {
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
