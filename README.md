@@ -1,76 +1,54 @@
-# math magicia
-math magicians is an application for math fans, a calculator app is also intgerated for users to make arithmetic calculations.
+#  MAth Magicians
+This is a  microverse project aimed at grasping JAVASCRIPTS wtih html
+ css  js and react by building the Math magicians app. 
 
-## Built With
+# Built With
+HTML
+CSS
+JAVASCRIPT
+React
 
-- React
-- Redux
-
-## Live Demo
-
-[Live Demo Link](https://competent-pasteur-0ea516.netlify.app/)
+# Getting Started
+This is a  microverse project aimed grasping the fundamentals of reaact
 
 ## Getting Started
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running, follow the steps in Setup below.
 
 ### Prerequisites
-
-- NodeJS - [v16.x](https://nodejs.org/en/)
+Basic knowledge of HTML, CSS. javascript
 
 ### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-```bash
-git clone [] https://github.com/amklass/Spcae-travellers-hub.git
-cd ./react-group-project
-```
+- Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 ### Install
 
-```bash
-npm install
-```
+The following tools help make easier to work with sample code.
 
-### Usage
+- [git](https://git-scm.com/downloads): A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
-```bash
-npm start
-```
-
-### Build
-
-```bash
-npm run build
-```
-
-### Run tests
-
-```bash
-npm test
-```
-
-## Authors
-
-**Amk lass**
+# Authors
+Amk lass
 
 GitHub:[@amklass11](https://github.com/amklass11)
 LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
 
-## 🤝 Contributing
-
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel freedto check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
+# Show your support
+Give a ⭐️ if you like this project! and cheers✨
 
-Give a ⭐️ if you like this project!
+ # Acknowledgments
+Microverse offered guidance on how to make the project more professional
 
-## Acknowledgments
 
-- Microverse
-- App Logo from [FlatIcons](https://www.flaticon.com/free-icon/planet_3212567?term=space&page=1&position=19&page=1&position=19&related_id=3212567&origin=style)
-
-## 📝 License
-
+# 📝 License
 This project is [MIT](./MIT.md) licensed.
