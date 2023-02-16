@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-import { React } from 'react';
+import React from 'react';
 import './calculator.css';
 import Display from './display';
 import Buttons from './buttons';
