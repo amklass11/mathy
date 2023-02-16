@@ -11,7 +11,7 @@ export const Calculator = () => (
       <h2>Lets do some math!</h2>
     </div>
     <div className="container">
-      <Display class1="display" previous={total} operand={operation} current={next} />
+      <Display class1="display" />
       <div className="operators-container">
         <div className="grey-btn">
           <Buttons label="AC" />
