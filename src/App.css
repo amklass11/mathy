@@ -1,11 +1,12 @@
-.calculator-page {
-  display: flex;
-  justify-content: space-around;
+* {
+  padding: 0;
+  margin: 0;
 }
 
 .container {
   width: 320px;
   height: 300px;
+  margin: 2em;
   font-size: 1em;
   border: 0.1px grey solid;
 }
