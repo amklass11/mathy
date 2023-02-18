@@ -1,7 +1,7 @@
 import React from 'react';
 
 // eslint-disable-next-line react/prefer-stateless-function
-function Calculator() {
+export default function Calculator() {
   return (
     <div className="main">
       <div className="screen">0</div>
@@ -27,5 +27,3 @@ function Calculator() {
     </div>
   );
 }
-
-export default Calculator;
