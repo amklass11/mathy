@@ -58,7 +58,7 @@
 ## 🚀 Project Details
 
 - Solo Project
-  - [Ermiyas Demsew](https://github.com/The-Normal-One1)
+  - [AMK LASS](https://github.com/amklass11)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
